@@ -11,9 +11,6 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmad.fadilah7@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:fadilahonespot@hotmail.com)
 
-https://simpleicons.org/icons/medium.svg
-https://simpleicons.org/icons/linkedin.svg
-
 &nbsp;
 
 <!-- Talking about you -->
