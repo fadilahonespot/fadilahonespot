@@ -21,10 +21,10 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 My last job was as a Backend Golang Developer;
 - 🌱 I’m currently learning Golang and Continuous Integration(Dockerizer); 
-- 🤔 I can implement layered design patterns;
+- 🤔 I can implement layered design patterns in build RESTful API;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ I need a team to develop a project together;
-- 📫 Contact me by email;
+- 📫 You can contact me via email if you want to ask something;
 
 **Languages and Tools:** 
 
